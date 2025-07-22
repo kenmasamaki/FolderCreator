@@ -4,6 +4,8 @@
 このツールは、Unityプロジェクト内に複数のフォルダを一括で作成するためのエディタ拡張です。  
 プロジェクト初期構成を整えるのに最適です。
 
+![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/124390814/468936249-928000f3-b865-468a-a751-226b7c118cac.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250722%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250722T031810Z&X-Amz-Expires=300&X-Amz-Signature=d97a91f5eca386d40809556788a927fdaced5038803e49176c9b9040b0332e96&X-Amz-SignedHeaders=host)
+
 ## 起動方法
 Unityエディタ上部メニューから  
 `Tools > フォルダ一括作成`
